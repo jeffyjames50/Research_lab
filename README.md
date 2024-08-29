@@ -2,7 +2,7 @@ In this branch the performance of the recommendations for each age group is eval
 Prediction error is computed using MAE.
 
 The dataset is balanced by deleting random users from each age group until there are equal number of users in all groups. 
-The dataset balanced by age group is saved as balancedbyagegroup.csv in balanced age group data.zip
+The dataset balanced by age group is saved as balancedbyagegroup.csv in balanced age group data.zip.
 abc-test.csv in balanced age group data.zip is the test file. 
 
 The code uses java version 21 
